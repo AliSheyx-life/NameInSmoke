@@ -1,0 +1,10 @@
+@media (max-width: 575.98px){
+    h1{
+        font-size: 25px;
+    }
+    
+    p{
+        font-size: 14px;
+        transform: translateX(-30%);
+    }
+}
