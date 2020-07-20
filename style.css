@@ -41,12 +41,14 @@ h1{
     font-size: 80px;
     font-family: sans-serif;
     letter-spacing: 0.2em;
+    background: none;
 }
 
 h1 span{
     opacity: 0;
     display: inline-block;
     animation: animate 1s linear forwards;
+    background: none;
 }
 
 @keyframes animate
